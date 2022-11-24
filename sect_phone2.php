@@ -1,0 +1,1 @@
+<span class="heading"><a style="text-decoration:none;color:#000000;" href=""tel:<?=$_SESSION["SOTBIT_REGIONS"]["UF_EMAIL"][0]?>"><?=$_SESSION["SOTBIT_REGIONS"]["UF_EMAIL"][0]?></a></span>

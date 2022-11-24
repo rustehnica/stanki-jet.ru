@@ -1,0 +1,1 @@
+<a onclick="ym(48919781,'reachGoal','ZAKAZEMAIL')" class="email" href="mailto:zakaz@stanki-jet.ru">zakaz@stanki-jet.ru</a>

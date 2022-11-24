@@ -1,0 +1,1 @@
+<p class="hr">Наш адрес: <?=$_SESSION["SOTBIT_REGIONS"]["UF_ADDRESS"]?> <a href="<?=SITE_DIR?>about/contacts/" class="showMap">Посмотреть на карте</a></p>
