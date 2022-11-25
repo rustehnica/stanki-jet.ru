@@ -148,7 +148,7 @@
 			<?endif;?>
 		<?else:?>
 			<?if($arResult["CATALOG_AVAILABLE"] == "Y"):?>
-				<a class="onOrder label eChangeAvailable" style="font-size:18px;color:red;font-weight:bold;"><img src="<?=SITE_TEMPLATE_PATH?>/images/onOrder.png" alt="<?=GetMessage("ON_ORDER")?>" class="icon"><?=GetMessage("ON_ORDER")?></a>
+				<a class="onOrder label eChangeAvailable" style="font-size:18px;color:red;font-weight:bold;"><img src="<?=SITE_TEMPLATE_PATH?>/images/onOrder.png" alt="Уточняйте наличие" class="icon">Уточняйте наличие</a>
 			<?else:?>
 				<a class="outOfStock label eChangeAvailable"><img src="<?=SITE_TEMPLATE_PATH?>/images/outOfStock.png" alt="<?=GetMessage("CATALOG_NO_AVAILABLE")?>" class="icon"><?=GetMessage("CATALOG_NO_AVAILABLE")?></a>
 			<?endif;?>

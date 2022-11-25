@@ -4,11 +4,11 @@
 }
 
 .product{
-	height: 420px !important;
+	height: 450px !important;
 }
 
 .product .tabloid {
-	height: 419px !important;
+	height: 449px !important;
 }
 @media (max-width: 600px){
 	.product{
@@ -123,6 +123,7 @@ font-size: 14px;
 .propContainer{
 	font-size: 12px;
 	min-height: 80px;
+	margin-bottom:12px;
 }
 .propContainer span{color: #aaa;}
 .product .rating{
